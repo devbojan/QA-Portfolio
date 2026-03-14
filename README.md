@@ -1,19 +1,8 @@
-Hi, I'm Bojan Brankovic QA Tester and software developer.
-QA skills: Manual Testing, Test Cases, Bug Reports, Postman API Testing.
+# Bojan Brankovic – Manual QA Engineer Portfolio
+# This repository showcases sample materials that reflect my approach to testing, reporting, and QA strategy.
 
-QA Projects
-Eye-net Mobile
-Fidnea app v1.0
-Verlin AI
-8 Ball Pool - Saloon Billiard
-Occasion.ly
-BonaLive
-Little online shop
+QA skills: Manual Testing, Test Cases design, Bug Reports, Postman API Testing.
 
+QA Projects: Eye-net Mobile, Fidnea Fintech app, Verlin AI, Occasion.ly, BonaLive, 8 Ball Pool - Saloon Billiard.
 
-
-API Testing
-Test Case Design
-
-Contact
 Email: bojanbrankovic85@yahoo.com
