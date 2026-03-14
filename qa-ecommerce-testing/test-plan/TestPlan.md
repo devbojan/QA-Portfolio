@@ -1,17 +1,10 @@
 Project: E-Commerce Website
 
-Scope
-Testing login, cart, checkout functionality
+Scope: Testing login, cart, checkout functionality
 
-Testing types
-Functional testing
-UI testing
-Negative testing
+Testing types: Functional testing, UI testing, Negative testing
 
-Environment
-Chrome
-Firefox
+Environment: Chrome, Firefox
 
-Test data
-Standard user credentials
+Test data: Standard user credentials
 
