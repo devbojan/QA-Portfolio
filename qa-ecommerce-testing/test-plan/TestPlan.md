@@ -1,10 +1,43 @@
-Project: E-Commerce Website
+# QA Manual Testing Portfolio - Ecommerce application testing - Test Plan 
 
-Scope: Testing login, cart, checkout functionality
+## 🚀 Author
+Bojan Brankovic
 
-Testing types: Functional testing, UI testing, Negative testing
+# Test Plan – E-commerce Application
 
-Environment: Chrome, Firefox
+## Objective
+Ensure application functionality, stability, and usability.
 
-Test data: Standard user credentials
+## Scope
+- Cart
+- Search
+- Checkout
+- UI
+- Security
+
+## Test Types
+- Functional Testing
+- Regression Testing
+- UI Testing
+- Smoke Testing
+
+## Environment
+- Browser: Chrome
+- OS: Windows 10
+
+## Entry Criteria
+- Application deployed
+- Test data available
+
+## Exit Criteria
+- All critical bugs resolved
+- 95% pass rate achieved
+
+## Risks
+- Duplicate orders
+- Session issues
+- UI instability
+
+
+
 
