@@ -1,4 +1,4 @@
-# QA Manual Testing Portfolio - Ecommerce application testing - Bug Report Examples md
+# QA Manual Testing Portfolio - Ecommerce application testing - Bug Report Examples
 
 ## 🚀 Author
 Bojan Brankovic
