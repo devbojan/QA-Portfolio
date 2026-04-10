@@ -1,29 +1,63 @@
-Title: Login button does not respond after entering valid credentials
+# QA Manual Testing Portfolio - Ecommerce application testing - Bug Report Examples md
 
-Environment: Chrome 121
-OS: Windows 11
-Website: #
+## 🚀 Author
+Bojan Brankovic
 
-Steps to Reproduce:
+# Bug Report Examples
 
-1. Open login page
-2. Enter valid username
-3. Enter valid password
-4. Click Login button
+## BUG-001 – Duplicate Order Creation
+- Severity: Critical
+- Priority: High
 
-Expected Result:
-User should be redirected to dashboard page.
+Steps:
+1. Add product to cart
+2. Click confirm multiple times
 
-Actual Result:
-Nothing happens after clicking Login button.
+Expected:
+One order created
 
-Severity:
-High
+Actual:
+Multiple orders created
 
-Priority:
-High
+---
 
-Attachments:
-Screenshot of issue (to update)
+## BUG-002 – App Crash on Navigation
+- Severity: High
 
+Steps:
+1. Navigate quickly between pages
 
+Expected:
+App stable
+
+Actual:
+App crashes
+
+---
+
+## BUG-003 – Offline Mode Issue
+- Severity: Major
+
+Steps:
+1. Disable internet
+2. Try checkout
+
+Expected:
+Error message
+
+Actual:
+No response
+
+---
+
+## BUG-004 – Session Not Expiring
+- Severity: Critical
+
+Steps:
+1. Stay idle 30+ minutes
+
+Expected:
+Session expires
+
+Actual:
+Session still active
