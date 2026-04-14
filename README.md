@@ -21,7 +21,7 @@ This portfolio demonstrates hands-on experience in manual testing, bug reporting
 - GitHub
 
 ## Key Achievements
-- Designed 50+ test cases
+- Designed 40+ test cases
 - Identified critical bugs in checkout and login flows
 - Performed API validation and response testing
 
