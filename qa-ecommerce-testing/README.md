@@ -37,8 +37,6 @@ This project focuses on manual testing of an e-commerce web application.
 Critical issues found in checkout process affecting user experience.
 
 ## 📬 Contact
-
 Feel free to reach out for collaboration or opportunities.
-
 - Email: bojanbrankovic85@yahoo.com   
 - GitHub: https://github.com/devbojan  
