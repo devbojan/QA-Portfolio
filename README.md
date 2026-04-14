@@ -1,8 +1,32 @@
-# Bojan Brankovic – Manual QA Engineer Portfolio
-# This repository showcases sample materials that reflect my approach to testing, reporting, and QA strategy.
+# QA Portfolio – Bojan Branković
 
-QA skills: Manual Testing, Test Cases design, Bug Reports, Postman API Testing.
+## Overview
+This portfolio demonstrates hands-on experience in manual testing, bug reporting, and API testing through real-world scenarios.
 
-QA Projects: Eye-net Mobile, Fidnea Fintech app, Verlin AI, Occasion.ly, BonaLive, 8 Ball Pool - Saloon Billiard.
+## Projects Included
+- E-commerce Web Testing
+- Mobile Application Testing
+- API Testing (Postman)
 
+## Skills Demonstrated
+- Test Case Design
+- Bug Reporting (Severity & Priority)
+- Test Execution
+- API Testing
+- Functional & UI Testing
+
+## Tools Used
+- Postman
+- Excel
+- GitHub
+
+## Key Achievements
+- Designed 50+ test cases
+- Identified critical bugs in checkout and login flows
+- Performed API validation and response testing
+
+## Goal
+Seeking an entry-level QA / Software Testing position.
+
+## Contact
 Email: bojanbrankovic85@yahoo.com
