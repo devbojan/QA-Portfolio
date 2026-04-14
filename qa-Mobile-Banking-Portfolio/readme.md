@@ -45,3 +45,8 @@ This project focuses on manual testing of a mobile banking application, covering
 ## Conclusion
 The testing process identified several critical and high-priority issues, particularly in transaction handling and session management. Addressing these bugs is essential to ensure a secure, reliable, and user-friendly mobile banking experience.
 
+## 📬 Contact
+Feel free to reach out for collaboration or opportunities.
+- Email: bojanbrankovic85@yahoo.com   
+- GitHub: https://github.com/devbojan  
+
