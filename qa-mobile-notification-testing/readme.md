@@ -80,6 +80,13 @@ This repository includes:
 
 ---
 
+## 📸 Screenshots
+
+Screenshots are not included due to NDA / platform restrictions.
+
+Test evidence is documented through detailed test cases and bug reports.
+
+
 ## 🧪 Test Evidence
 
 Test execution is documented through:
