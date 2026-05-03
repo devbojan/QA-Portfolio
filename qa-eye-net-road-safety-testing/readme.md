@@ -55,6 +55,18 @@ The testing effort targets critical features such as real-time notifications, GP
 - `bug-reports.md`
 
 ---
+📸 Screenshots
+Screenshots are not included due to NDA / platform restrictions.
+
+Test evidence is documented through detailed test cases and bug reports.
+
+🧪 Test Evidence
+Test execution is documented through:
+
+Structured test cases
+Detailed bug reports
+Real-world scenario validation
+Screenshots are not included due to platform limitations.
 
 ## 🐞 Key Issues Identified
 
