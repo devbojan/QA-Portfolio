@@ -150,6 +150,5 @@ My testing approach is based on:
 **Bojan Brankovic**  
 QA Engineer (Manual + Automation – in progress)  
 
-📧 [your email]  
-🔗 https://github.com/devbojan  
-💼 [LinkedIn link]
+📧 bojanbrankovic85@yahoo.com 
+🔗 [https://github.com/devbojan/QA-Portfolio] 
