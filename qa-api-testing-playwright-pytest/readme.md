@@ -87,7 +87,7 @@ One test is intentionally designed to fail in order to demonstrate:
 
 Below is an example of a captured screenshot when a test fails:
 
-![Failure Screenshot](screenshots/html-report-screenshot.jpg)
+![Failure Screenshot](screenshots/html-report-screenshot.JPG)
 
 This screenshot contains:
 
