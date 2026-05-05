@@ -1,4 +1,4 @@
-# Swagger Petstore API Testing Project
+# Swagger Petstore API Testing Project - Postman
 
 ## 📌 Overview
 This project demonstrates manual API testing of a RESTful service based on OpenAPI specification.
