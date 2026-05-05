@@ -1,21 +1,20 @@
-# GitHub API Testing (Playwright + Pytest)
+# API Automation Testing (Playwright + Pytest)
 
-## 📌 Overview
-This project demonstrates API test automation using Playwright and Pytest.
+## Overview
+API automation framework using Playwright and Pytest.
 
-## 🧪 What is tested
-- Get GitHub user
-- List user repositories
-- Negative scenarios (404)
-- Multiple users (parametrized tests)
+## Features
+- REST API testing
+- Reusable API client
+- Fixtures and clean structure
+- Positive and negative test coverage
 
-## 🛠 Tech stack
+## Tech stack
 - Python
 - Pytest
-- Playwright (API testing)
+- Playwright
 
-## ▶️ Run tests
-```bash
-pip install -r requirements.txt
-playwright install
+## Run tests
+pip install -r requirements.txt  
+playwright install  
 pytest
