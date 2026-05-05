@@ -1,20 +1,19 @@
-# API Automation Testing (Playwright + Pytest)
+# API Automation Framework (Playwright + Pytest)
 
 ## Overview
-API automation framework using Playwright and Pytest.
+Enterprise-grade API test automation framework built with Python, Playwright, and Pytest.
 
-## Features
-- REST API testing
-- Reusable API client
-- Fixtures and clean structure
-- Positive and negative test coverage
-
-## Tech stack
-- Python
-- Pytest
-- Playwright
+## Key Features
+- Modular architecture
+- Environment-based configuration
+- API client abstraction
+- Schema validation (Pydantic)
+- Retry mechanism
+- Logging support
 
 ## Run tests
-pip install -r requirements.txt  
-playwright install  
-pytest
+ENV=dev pytest
+
+## 📎 Author
+Bojan Brankovic
+QA Engineer (Manual + Automation – in progress)
