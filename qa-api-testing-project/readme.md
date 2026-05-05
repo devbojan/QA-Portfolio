@@ -79,16 +79,16 @@ qa-api-testing-project/
 ## 📸 Screenshots
 
 ### Create Pet
-![Create](screenshots/post-create-pet-success.jpg)
+![Create](screenshots/post-create-pet-success.JPG)
 
 ### Update Pet
-![Update](screenshots/put-update-pet.jpg)
+![Update](screenshots/put-update-pet.JPG)
 
 ### Delete Pet
-![Delete](screenshots/delete-pet-success.jpg)
+![Delete](screenshots/delete-pet-success.JPG)
 
 ### Error Handling
-![Error](screenshots/get-pet-not-found.jpg)
+![Error](screenshots/get-pet-not-found.JPG)
 
 ---
 
